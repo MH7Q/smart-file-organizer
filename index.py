@@ -14,7 +14,7 @@ from watchdog.events import FileSystemEventHandler
 # CONFIGURATION & VERSIONING
 # =====================================================
 
-CURRENT_VERSION = "v1.0.1" 
+CURRENT_VERSION = "v1.0.3" 
 GITHUB_USER = "MH7Q"
 GITHUB_REPO = "smart-file-organizer"
 
